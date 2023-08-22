@@ -1,6 +1,7 @@
 // Remove all duplicates from a list.
 
 #include<stdio.h>
+#include<string.h>
 
 int isFound(char str,char a[]) {
     int found,i;
